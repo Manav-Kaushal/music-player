@@ -10,24 +10,19 @@ const progressed = document.querySelector(".progressed");
 // Songs Data
 const songList = [
   {
-    path: "songs/Desires.mp3",
-    songName: "Desires",
-    artistName: "AP Dhillon",
+    path: "songs/Cinematic_Piano.mp3",
+    songName: "Cinematic Piano",
+    artistName: "NCS",
   },
   {
-    path: "songs/We_Rollin.mp3",
-    songName: "We Rollin",
-    artistName: "Shubh",
+    path: "songs/downfall.mp3",
+    songName: "Downfall",
+    artistName: "NCS",
   },
   {
-    path: "songs/Notorious.mp3",
-    songName: "Notorious",
-    artistName: "Wazir Patar",
-  },
-  {
-    path: "songs/Elevated.mp3",
-    songName: "Elevated",
-    artistName: "Shubh",
+    path: "songs/In The Forest 2.mp3",
+    songName: "In The Forest 2",
+    artistName: "NCS",
   },
 ];
 
